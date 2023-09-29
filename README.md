@@ -35,8 +35,8 @@ To set up the project environment, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/decathlon-sales-prediction.git
-   cd decathlon-sales-prediction
+   git clone https://github.com/nihalsaran/Sales-predictor.git
+   cd Sales-prediction
    ```
 
 2. Install the required Python libraries:

@@ -72,7 +72,7 @@ python generate_graphs.py
 ```
 
 The graphs include:
-1. Turnover vs. Years
+1. Turnover vs. Years......
 2. TV vs. Advertising Cost
 3. Newspaper vs. Advertising Cost
 
